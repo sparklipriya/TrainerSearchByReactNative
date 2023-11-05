@@ -20,6 +20,7 @@ export default function anotherApp() {
         
       
     </NavigationContainer>
+  apiKey: {this.apiKey}
   );
        
 }
